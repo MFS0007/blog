@@ -1,0 +1,25 @@
+{
+  "name": "mfs",
+  "version": "1.0.0",
+  "description": "mfs blog",
+  "main": "index.js",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html --dist-dir ./dist"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/MFS0007/blog.git"
+  },
+  "keywords": [
+    "blog",
+    "mfs"
+  ],
+  "author": "Mohammad Farooq Shaik",
+  "license": "ISC",
+  "devDependencies": {
+    "@parcel/transformer-sass": "^2.12.0",
+    "parcel": "^2.12.0",
+    "sass": "^1.79.3"
+  }
+}
