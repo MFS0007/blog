@@ -1,3 +1,3 @@
-# blog
+# Blog
 
-Blog of Mohammad Farooq Shaik
+Mohammad Farooq Shaik

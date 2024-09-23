@@ -17,7 +17,7 @@
   ],
   "author": "Mohammad Farooq Shaik",
   "license": "ISC",
-  "devDependencies": {
+  "dependencies": {
     "@parcel/transformer-sass": "^2.12.0",
     "parcel": "^2.12.0",
     "sass": "^1.79.3"
